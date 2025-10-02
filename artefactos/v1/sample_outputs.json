@@ -1,0 +1,32 @@
+[
+  {
+    "proba_ALTO": 0.6337623392765319,
+    "pred_num": 1,
+    "pred_label": "ALTO",
+    "true": 0
+  },
+  {
+    "proba_ALTO": 0.6783741375660199,
+    "pred_num": 1,
+    "pred_label": "ALTO",
+    "true": 1
+  },
+  {
+    "proba_ALTO": 0.5516697811133046,
+    "pred_num": 1,
+    "pred_label": "ALTO",
+    "true": 1
+  },
+  {
+    "proba_ALTO": 0.5079115341371081,
+    "pred_num": 1,
+    "pred_label": "ALTO",
+    "true": 1
+  },
+  {
+    "proba_ALTO": 0.5650819544405905,
+    "pred_num": 1,
+    "pred_label": "ALTO",
+    "true": 1
+  }
+]

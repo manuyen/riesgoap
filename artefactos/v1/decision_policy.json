@@ -1,0 +1,35 @@
+{
+  "winner": "CAT",
+  "threshold": 0.4599999999999999,
+  "test_metrics": {
+    "accuracy": 0.8035063357056067,
+    "balanced_accuracy": 0.6144707958826496,
+    "precision": 0.9131611828404831,
+    "recall": 0.8598039215686275,
+    "f1": 0.8856796606746112,
+    "mcc": 0.1958800175985714,
+    "roc_auc": 0.7202764676218445,
+    "pr_auc": 0.9483640350589538
+  },
+  "confusion_matrix": [
+    [
+      244,
+      417
+    ],
+    [
+      715,
+      4385
+    ]
+  ],
+  "class_names": [
+    "BAJO(0)",
+    "ALTO(1)"
+  ],
+  "best_params": {
+    "model__border_count": 195,
+    "model__depth": 5,
+    "model__iterations": 659,
+    "model__l2_leaf_reg": 4.2313915535696935,
+    "model__learning_rate": 0.02399358931136453
+  }
+}

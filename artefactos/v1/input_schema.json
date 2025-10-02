@@ -1,0 +1,43 @@
+{
+  "columns": [
+    "edad_colegiacion",
+    "n_especialista",
+    "descripcion_sexo",
+    "estado_civil",
+    "pais_nacimiento",
+    "universidad_pais",
+    "tip_particular",
+    "cod_grupo_entidad_pagadora",
+    "nombre_local_pago",
+    "banco",
+    "cod_forma_de_pago"
+  ],
+  "dtypes": {
+    "edad_colegiacion": "int64",
+    "n_especialista": "int64",
+    "descripcion_sexo": "object",
+    "estado_civil": "object",
+    "pais_nacimiento": "object",
+    "universidad_pais": "object",
+    "tip_particular": "object",
+    "cod_grupo_entidad_pagadora": "object",
+    "nombre_local_pago": "object",
+    "banco": "object",
+    "cod_forma_de_pago": "object"
+  },
+  "num_features": [
+    "edad_colegiacion",
+    "n_especialista"
+  ],
+  "cat_features": [
+    "descripcion_sexo",
+    "estado_civil",
+    "pais_nacimiento",
+    "universidad_pais",
+    "tip_particular",
+    "cod_grupo_entidad_pagadora",
+    "nombre_local_pago",
+    "banco",
+    "cod_forma_de_pago"
+  ]
+}

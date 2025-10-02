@@ -1,0 +1,20 @@
+version: "3.9"
+services:
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      # Si estás en Apple Silicon y tienes problemas con wheels, descomenta:
+      # platform: linux/amd64
+    ports:
+      - "8501:8501"
+    environment:
+      - ART_DIR=/app/artefactos/v1
+    volumes:
+      # monta artefactos para cambiar umbral / modelo sin rebuild
+      # - ./artefactos:/app/artefactos:ro
+      - ./streamlit_app.py:/app/streamlit_app.py:rw
+      - ./artefactos:/app/artefactos:rw      
+      # si quieres editar streamlit_app.py y ver recarga:
+      # - ./streamlit_app.py:/app/streamlit_app.py:ro
+    restart: unless-stopped

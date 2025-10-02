@@ -1,0 +1,67 @@
+[
+  {
+    "edad_colegiacion": 25,
+    "n_especialista": 0,
+    "descripcion_sexo": "Femenino",
+    "estado_civil": "Soltero",
+    "pais_nacimiento": "PERU",
+    "universidad_pais": "PERU",
+    "tip_particular": "PRIVADA",
+    "cod_grupo_entidad_pagadora": "CONSEJOS CEP",
+    "nombre_local_pago": "LIMA",
+    "banco": "SCOTIA BANK",
+    "cod_forma_de_pago": "VOUCHER"
+  },
+  {
+    "edad_colegiacion": 27,
+    "n_especialista": 0,
+    "descripcion_sexo": "Masculino",
+    "estado_civil": "Soltero",
+    "pais_nacimiento": "PERU",
+    "universidad_pais": "PERU",
+    "tip_particular": "PRIVADA",
+    "cod_grupo_entidad_pagadora": "CONSEJOS CEP",
+    "nombre_local_pago": "APURIMAC",
+    "banco": "OTROS",
+    "cod_forma_de_pago": "VOUCHER"
+  },
+  {
+    "edad_colegiacion": 37,
+    "n_especialista": 0,
+    "descripcion_sexo": "Femenino",
+    "estado_civil": "Soltero",
+    "pais_nacimiento": "PERU",
+    "universidad_pais": "PERU",
+    "tip_particular": "PUBLICA",
+    "cod_grupo_entidad_pagadora": "CONSEJOS CEP",
+    "nombre_local_pago": "HUANCAVELICA",
+    "banco": "OTROS",
+    "cod_forma_de_pago": "VOUCHER"
+  },
+  {
+    "edad_colegiacion": 47,
+    "n_especialista": 0,
+    "descripcion_sexo": "Femenino",
+    "estado_civil": "Soltero",
+    "pais_nacimiento": "PERU",
+    "universidad_pais": "PERU",
+    "tip_particular": "PRIVADA",
+    "cod_grupo_entidad_pagadora": "OTROS",
+    "nombre_local_pago": "LIMA",
+    "banco": "BBVA",
+    "cod_forma_de_pago": "VOUCHER"
+  },
+  {
+    "edad_colegiacion": 46,
+    "n_especialista": 0,
+    "descripcion_sexo": "Femenino",
+    "estado_civil": "Soltero",
+    "pais_nacimiento": "PERU",
+    "universidad_pais": "PERU",
+    "tip_particular": "PUBLICA",
+    "cod_grupo_entidad_pagadora": "CONSEJOS CEP",
+    "nombre_local_pago": "LIMA",
+    "banco": "OTROS",
+    "cod_forma_de_pago": "VOUCHER"
+  }
+]
